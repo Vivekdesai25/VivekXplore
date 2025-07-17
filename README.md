@@ -2,6 +2,10 @@
 ## 🎨 **Crafted with Code & Curiosity**  
 ### 🚀 👉 [**🌐 Step Into My World of Web Practice**](https://vivekdesai25.github.io/Vivekdesai25/)
 
+<h1 align="center">🎨 Crafted with Code & Curiosity</h1>
+<h3 align="center">🚀 <a href="https://vivekdesai25.github.io/Vivekdesai25/">🌐 Step Into My World of Web Practice</a></h3>
+
+<br>
 
 ## 🏆 My LeetCode Stats - Vivek Desai 
 
