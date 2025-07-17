@@ -1,7 +1,5 @@
-## My Dev Journey Starts Here → Check the Vibes
-https://vivekdesai25.github.io/Vivekdesai25/
-
-
+## 🎨 Crafted with Code & Curiosity  
+🚀 [🌐 Step Into My World of Web Practice](https://vivekdesai25.github.io/Vivekdesai25/)
 
 
 ## 🏆 My LeetCode Stats - Vivek Desai 
