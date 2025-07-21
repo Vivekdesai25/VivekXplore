@@ -1,3 +1,4 @@
+![Banner](https://github.com/vivekdesai25/Evoastra_Internship/blob/main/assets/banner.png?raw=true)
 
 <h1 align="center">🎨 Crafted with Code & Curiosity</h1>
 <h3 align="center">🚀 <a href="https://vivekdesai25.github.io/Vivekdesai25/">🌐 Step Into My World of Web Practice</a></h3>
