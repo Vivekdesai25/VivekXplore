@@ -11,6 +11,8 @@
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vivekdesai25&theme=radical&margin-w=10)
+https://github-profile-trophy.vercel.app/?username=Vivekdesai25&theme=radical
+
 
 
 ### 🔝 Top Contributed Repositories
