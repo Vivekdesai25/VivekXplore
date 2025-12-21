@@ -10,8 +10,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Im_Vivek_Desai?theme=tokyonight&font=IBM%20Plex%20Sans%20Devanagari)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vivekdesai25&theme=radical&margin-w=10)
-https://github-profile-trophy.vercel.app/?username=Vivekdesai25&theme=radical
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vivekdesai25&theme=radical)
+
 
 
 
